@@ -1,0 +1,1 @@
+const inputBox = docuent.getElementById("input-box");
