@@ -1,5 +1,5 @@
 # solid-memory-to-do-list
-A basic to do list
+A basic to-do list.
 
 ## LICENSE
 This repository is licensed under the MIT license. In short, you must include the exact copy of this project's license in your end-user application. Read LICENSE for more information.
