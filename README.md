@@ -1,4 +1,6 @@
 # solid-memory-to-do-list
+RETIRED REPO
+
 A basic to-do list.
 
 ## LICENSE
